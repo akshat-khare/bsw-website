@@ -14,7 +14,7 @@ You have to submit the code by mailing it at akshat.khare.backup@gmail.com by 20
 
 ## Important Instructions
 
-- Mail me with your preference of the page that you'd be liking to create.
+- Mail me with your preference of the page that you'd be liking to create (at least one page).
 - If you are beginner you might like looking up W3 tutorials of HTML, CSS and Bootstrap. That would be enough for completing the assignment. There are many files in the repo that you need not be worrying about. Only code that is of much concern is index.html. Understand the template mentioned above more carefully if you are having difficullty solving the assignment.
 - Headers and Footers should be similar to the template or the index.html in the repo.
 - You can use any online resource and make the page look more attractive. However it is advised if you can make the page look satisfactorially aesthetic make another page if you have time. Efforts on aesthetic will be rewarded.
@@ -23,7 +23,7 @@ You have to submit the code by mailing it at akshat.khare.backup@gmail.com by 20
 - Also upload a text file containing not more than 50 words as the statement of your work done.
 - Keep yourself updated with this github page's readme as instructions may change if there is any issue. Star the repo and watch the repo page to get timely updates on any change 
 - You can mail me any queries regarding the assignment on the email mentioned above or raise the issue in the repo itself. I will try to solve it as quickly as possible.
-- Cheating won't help. My brother is in 8th  standard and he can make the page by giving 10 hours. It would be really sad if you are cheating in such an easy assignment.
+- ***Cheating won't help. My brother is in 8th  standard and he can make the page by giving 10 hours. It would be really sad if you are cheating in such an easy assignment.***
 - If the page is nice enough it will be directly integrated with the official site and credits would be given even if you are not selected.
 
 
