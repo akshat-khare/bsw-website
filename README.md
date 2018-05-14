@@ -3,9 +3,9 @@ Hi all.
 This is a week long assignment that won't be taking more than 4 hours in total. The reason of keeping it week long as many of you might not be having time to work on some specific days. We apologize for sending the assignment late.  
 You need to download the code and run it on your machine locally. PHP is not used. Your requirements are to make page(s) corresponding to the currently deployed site. You can also see this link from where the template is picked up : https://startbootstrap.com/template-overviews/creative/  
 There are many pages that can be deployed like
->Any page from the Resources tab in the site (http://bsw.iitd.ac.in/)
->Any page from the BSW Resources tab(except Question Paper page, its hard to implement) in the site (http://bsw.iitd.ac.in/)
->Any page from the FAQ tab in the site(http://bsw.iitd.ac.in/).
+>Any page from the Resources tab in the site (http://bsw.iitd.ac.in/)  
+>Any page from the BSW Resources tab(except Question Paper page, its hard to implement) in the site (http://bsw.iitd.ac.in/)  
+>Any page from the FAQ tab in the site(http://bsw.iitd.ac.in/).  
 >Any of the Counselling or Contact Us Page.  
 
 You need to make any of the page you find easy or interesing coherent with the template used in the site. You can see the currently deployed site at http://www.cse.iitd.ac.in/~cs1160315/bswnewsite/ . You can also use this awesome page: http://htmlpreview.github.io/ and deploy the code directly from the github automatically.
